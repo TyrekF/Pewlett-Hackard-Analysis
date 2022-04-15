@@ -24,4 +24,4 @@ An entity relationship diagram was developed utilizing quick database diagrams t
 ![mentorship_eligibilty](https://user-images.githubusercontent.com/96156893/163581157-50aa0786-0f6f-447b-a83c-8184e07dc183.png)
 
 # Summary 
-At the moment, a large number of Pewlett Hackard employees are preparing to retire or are being redirected to their mentorship efforts, implying that they will need to go through a lengthy hiring process in the coming years. Because a large number of prospective retirees will hold senior positions, the mentorship program should act as a capacitation buffer for the vast experience that will be leaving the organization in the coming years.
+At the moment, a large number of Pewlett Hackard employees are preparing to retire or are being redirected to their mentorship efforts, implying that they will need to go through a lengthy hiring process in the future. A large number of prospective retirees will hold senior positions, the mentorship program should act as a buffer for the vast experience that will be leaving the organization in the coming years.
