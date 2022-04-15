@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview
-An entity relationship diagram was developed utilizing quick database diagrams to extract and organize the main elements from multiple data tables after evaluating the employee files for Pewlett Hackard. Postgres and the pgAdmin interface were used to import the data. By connecting primary keys from disparate data sets and establishing foreign keys, SQL queries were constructed to generate data tables. The leadership is concerned about a "silver tsunami," in which a large number of staff retire, leaving a large number of employment openings. A list of departing employees by title and a list of employees eligible for mentorship were generated using SQL queries.
+An entity relationship diagram was developed utilizing quick database diagrams to extract and organize the main elements from multiple data tables after evaluating the employee files for Pewlett Hackard. Postgres and the pgAdmin interface were used to import the data. The leadership is concerned about a silver tsunami, in which a large number of staff retire, leaving a large number of employment openings. A list of departing employees by title and a list of employees eligible for mentorship were generated using SQL queries.
 
 # Results 
 *Employee database relationship diagram:
